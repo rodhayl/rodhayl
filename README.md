@@ -1,4 +1,4 @@
-### Student, tech-curious, IT engineer 👋
+### AI Enthusiast, tech-curious, IT engineer 👋
 
 <!--
 **rodhayl/rodhayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
